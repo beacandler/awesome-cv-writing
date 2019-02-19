@@ -1,5 +1,5 @@
 
-# awesome-ocr-writing
+# awesome-cv-writing
 
 ## 摘要
 该仓库包含了计算机视觉论文中写作常用的句式、短语、缩写等。
